@@ -1,3 +1,6 @@
+
+##This Repo has been updated to work with Whisper Kit
+
 # Documentation
 
 Developers can use these examples in their own programs -- just import the swift package!
